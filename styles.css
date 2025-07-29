@@ -9,7 +9,10 @@
 }
 
 body {
-    font-size: 1rem;
+    font-size: 1.2rem;
+    font-weight: bold;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #00BFFF;
     font-family: 'Montserrat';
 }
 
@@ -104,6 +107,8 @@ h2 {
 
 #galeria {
     background-color: #FAF4F4;
+-webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #000000;
 
 }
 
@@ -116,6 +121,8 @@ h2 {
     background-image: url('img/4965007.jpg');
     background-size: cover;
     padding: 4rem 0;
+-webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #000000;
     /* Espaçamento interno para a seção de contato */
 
 }
