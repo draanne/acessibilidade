@@ -24,13 +24,13 @@ section {
 
 
 .nav-link {
-    color: hsl(196, 57%, 53%);
+    color: hwb(356 26% 20%);
     font-weight: 600;
 }
 
 .inicio-fundo {
-    /* aula 3 */
-    background-image: url('img/4965007.jpg');
+   /* aula 3 */
+    background-image: url('senta.gif');
     /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
@@ -79,8 +79,8 @@ section {
     padding-top: 5rem;
     margin-top: 3rem;
     margin-bottom: 3rem;
-    background: url('img/flor.png') top right no-repeat,
-        url('img/flor-esquerda.png') bottom left no-repeat;
+    background: url('portaria.webp') top right no-repeat,
+        url('celeste.webp') bottom left no-repeat;
     background-size: 180px 180px;
     /* Ajuste o tamanho conforme necessário */
 }
@@ -108,7 +108,7 @@ h2 {
 }
 
 .fundo-galeria {
-    background: url('img/flor-bottom-direita.png') bottom right no-repeat;
+    background: url('ratinho.jpeg') bottom right no-repeat;
     background-size: 180px 180px;
 }
 
@@ -132,7 +132,7 @@ h2 {
 }
 
 .formulario button {
-    background-color: hsl(199, 57%, 53%);
+    background-color: hwb(199 5% 2%);
     border: none;
     font-weight: bold;
 }
